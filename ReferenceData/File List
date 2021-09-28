@@ -4,4 +4,8 @@ The data that support the findings of this study are publically available and th
 
 1. 1000 Genome Project data: (ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/)
 2. eQTL-derived weight data: (http://gusevlab.org/projects/fusion/#reference-functionaldata)
-
+3. SCZ GWAS summary statistics: (https://www.med.unc.edu/pgc/results‐and‐downloads/)
+4. Lipids GWAS sumamry statistics:
+  * HDL1: (http://csg.sph.umich.edu/willer/public/lipids2010/)
+  * HDL2: (http://csg.sph.umich.edu/willer/public/lipids2013/)
+5. GENODE gene annotation: (https://www.gencodegenes.org/human/release_35lift37.html)
