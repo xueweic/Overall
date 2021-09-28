@@ -1,4 +1,4 @@
-# Overall
+# Overall and Copula
 Overall and Copula: Gene-based Association Tests Using GWAS Summary Statistics and Incorporating eQTL
 * R functions impl
 * Import: mvtnorm, sumFREGAT[1](https://cran.r-project.org/web/packages/sumFREGAT/index.html), mkatr[2](https://github.com/baolinwu/mkatr)
