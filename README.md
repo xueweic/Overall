@@ -1,7 +1,7 @@
 # Overall
 Overall: Gene-based Association Tests Using GWAS Summary Statistics and Incorporating eQTL [1]
 	
-1. R functions implementing overall and copula methods for testing gene-set association using GWAS summary statistics incorporating eQTL.
+1. R functions implementing overall method for testing gene-set association using GWAS summary statistics incorporating eQTL.
 2. Dependencies:
    * mvtnorm (https://cran.r-project.org/web/packages/mvtnorm/index.html)
    * sumFREGAT[2] (https://cran.r-project.org/web/packages/sumFREGAT/index.html)
